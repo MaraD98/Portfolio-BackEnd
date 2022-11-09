@@ -1,9 +1,9 @@
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Enums\RolNombre.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Service\RolService.java
-D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Interface\IPersonaService.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Controller\AuthController.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\jwt\JwtProvider.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Respository\IPersonaRepository.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Respository\Rhys.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Controller\PersonaController.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Entity\Persona.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\jwt\JwtTokenFilter.java
@@ -13,16 +13,20 @@ D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Cont
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Dto\NuevoUsuario.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Entity\Experiencia.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Respository\REducacion.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Dto\dtoHys.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Entity\Rol.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Service\SEducacion.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Controller\CEducacion.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Repository\iUsuarioRepository.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Repository\iRolRepository.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Dto\dtoPersona.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Service\Shys.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Dto\dtoEducacion.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Service\SExperiencia.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\MainSecurity.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Service\ImPersonaService.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Service\UsuarioService.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Controller\CHys.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\jwt\JwtEntryPoint.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\McdApplication.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Respository\RExperiencia.java
@@ -32,3 +36,4 @@ D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Dto\
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Entity\Usuario.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Controller\CExperiencia.java
 D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Security\Entity\UsuarioPrincipal.java
+D:\cursos\Portfolio-Back\BackEnd\src\main\java\com\myportfolio\mcd\Entity\hys.java
