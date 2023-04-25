@@ -1,4 +1,5 @@
 com\myportfolio\mcd\Entity\hys.class
+com\myportfolio\mcd\Controller\CProyecto.class
 com\myportfolio\mcd\Security\Repository\iRolRepository.class
 com\myportfolio\mcd\Security\jwt\JwtProvider.class
 com\myportfolio\mcd\Controller\CEducacion.class
@@ -26,11 +27,15 @@ com\myportfolio\mcd\Security\Service\UserDetailsImpl.class
 com\myportfolio\mcd\Security\Entity\Rol.class
 com\myportfolio\mcd\Security\Service\RolService.class
 com\myportfolio\mcd\Dto\dtoExperiencia.class
+com\myportfolio\mcd\Entity\Proyecto.class
+com\myportfolio\mcd\Dto\dtoProyecto.class
+com\myportfolio\mcd\Respository\RProyecto.class
 com\myportfolio\mcd\Security\Dto\JwtDto.class
 com\myportfolio\mcd\Security\jwt\JwtTokenFilter.class
 com\myportfolio\mcd\McdApplication.class
 com\myportfolio\mcd\Security\Entity\Usuario.class
 com\myportfolio\mcd\Security\Controller\Mensaje.class
+com\myportfolio\mcd\Service\SProyecto.class
 com\myportfolio\mcd\Controller\CExperiencia.class
 com\myportfolio\mcd\Respository\IPersonaRepository.class
 com\myportfolio\mcd\Service\SExperiencia.class

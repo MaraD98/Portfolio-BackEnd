@@ -8,23 +8,20 @@ package com.myportfolio.mcd.Dto;
 import javax.validation.constraints.NotBlank;
 
 
-public class dtoPersona {
+public class dtoProyecto {
     
     @NotBlank
     private String nombre;
-    @NotBlank
-    private String apellido;
     @NotBlank
     private String descripcion;
     @NotBlank
     private String img;
 
-    public dtoPersona() {
+    public dtoProyecto() {
     }
 
-    public dtoPersona(String nombre, String apellido, String descripcion, String img) {
+    public dtoProyecto(String nombre, String descripcion, String img) {
         this.nombre = nombre;
-        this.apellido = apellido;
         this.descripcion = descripcion;
         this.img = img;
     }
@@ -35,14 +32,6 @@ public class dtoPersona {
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
-    }
-
-    public String getApellido() {
-        return apellido;
-    }
-
-    public void setApellido(String apellido) {
-        this.apellido = apellido;
     }
 
     public String getDescripcion() {
