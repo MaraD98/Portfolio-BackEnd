@@ -1,0 +1,8 @@
+#From hace referencia de que imagen partimos, en este caso java 11
+FROM amazoncorretto:11-alpine-jdk
+#Quien es el dueño y quien lo mantiene
+MAINTAINER MCD 
+#Va a copiar el empaquetado en github y lo renombramos
+COPY target/mcd-0.0.1-SNAPSHOT.jar  mcd-app.jar
+#Es la primer instruccion que se va a ejecutar
+ENTRYPOINT ["java","-jar","/mcd-app.jar"]
